@@ -49,3 +49,6 @@ This project is open-source and available under the MIT Lisence.
 ### Key Things to Customize:
 - Replace `your-username` with your actual GitHub username in the clone URL (`git clone https://github.com/your-username/ai_media_recommender.git`).
 - Replace the placeholder `your-api-key-here` in the `.env` file section with your actual TMDb API key.
+## Acknowledgments
+
+This project was developed with the collaboration of Taamer Naamid. Special thanks to them for their contributions to the development of this project.
